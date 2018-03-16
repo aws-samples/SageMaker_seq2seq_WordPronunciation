@@ -10,11 +10,11 @@ Note: The training the model with the exact same setup will take ~2 hours.
 
 ## create_vocab_proto.py
 
-Helper python script to generate a recordIO file from tokenized source and target sequences in numpy array. 
+Helper python script to generate a recordIO file from pairs of tokenized source and target sequences in numpy array. 
 
 ## record_pb2.py
 
-Another helper python script to generate a recordIO file from tokenized source and target sequences in numpy array. 
+Another helper python script to generate a recordIO file from pairs of tokenized source and target sequences in numpy array. 
 
 ## License
 
